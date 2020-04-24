@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>dimpaymentsimple</name>
+	<displayName><![CDATA[Simple payment]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Simple payment to test the store]]></description>
+	<author><![CDATA[Dimitri KUZNYETSOV]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
